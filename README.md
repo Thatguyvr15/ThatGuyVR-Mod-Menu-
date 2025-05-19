@@ -21,7 +21,12 @@ ThatGuyVR Gorilla Tag Mod Menu
 - **Super Jump** — Enables super jump  
 - **FPS Unlocker** — Unlocks the FPS cap  
 - **No Tag Freeze** — Disables the tag freeze after being tagged  
-- **Quit Gorilla Tag** — Instantly closes the game  
+- **Quit Gorilla Tag** — Instantly closes the game
+- **Game Mode Set Casual** - Sets to GameMode to Casual
+- **Game Mode Set Infection** - Sets to GameMode to Infection
+- **Game Mode Set Guardian** - Sets to GameMode to Guardian
+- **Game Mode Set Freeze Tag** - Sets to GameMode to Freeze Tag
+- **Game Mode Set Hunt** - Sets to GameMode to Hunt 
 ### Settings Page
 - **Return to Main** — Returns to the main mod page  
 - **Menu** — Opens menu settings  
