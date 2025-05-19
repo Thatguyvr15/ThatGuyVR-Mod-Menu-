@@ -1,7 +1,6 @@
 ThatGuyVR Gorilla Tag Mod Menu
 
 ## Features
-- Organized multi-page menu  
 - Settings, Movement, and Projectile settings pages  
 - Toggleable and non-toggleable mods  
 - Clean tooltips for every button  
